@@ -1,0 +1,94 @@
+{
+    "name": "DJControls",
+    "maps": [
+        {
+            "name": "DJControls",
+            "id": "afc1092c-d84f-4197-bbec-18b13e176371",
+            "actions": [
+                {
+                    "name": "CarrilA",
+                    "type": "Button",
+                    "id": "2fba4173-295d-4c54-877e-451e2f2610b5",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CarrilW1",
+                    "type": "Button",
+                    "id": "19314214-163b-4ed2-820d-2750042194e7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CarrilS",
+                    "type": "Button",
+                    "id": "6f05ceb8-3218-4a52-8463-ce0dd440f9f4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CarrilD",
+                    "type": "Button",
+                    "id": "14b2044f-3048-4b41-8679-2d5a0f7ea789",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9f63d8ff-6d6e-49ee-a52d-5dfd3f37a680",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CarrilA",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bbc05d93-873c-4f1d-8ec5-2aacd1a302b8",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CarrilW1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "69c6a00b-0e54-4f62-9e9c-0a28a557e8ae",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CarrilS",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d8016776-dd94-46ab-b9bf-bd2af06a0857",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CarrilD",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
